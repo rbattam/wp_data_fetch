@@ -1,0 +1,25 @@
+levels:
+    level_1: # Required for level 2
+        pause_base_data: 1
+    level_2: # Required for level 3
+        pause_member_data: 1
+        pause_group_data: 1
+        pause_event_data: 1
+        pause_survey_data: 1
+    level_3: # Required for level 4
+        pause_edges_data: 1
+        pause_group_edges_data: 1
+        pause_event_edges_data: 1
+        pause_member_convos_data: 1  # <-- Conversations data is Heavier data than all level 4's
+    level_4: # Requires Level 3 Data Downloaded First
+        pause_member_posts_data: 1
+        pause_group_posts_data: 1
+    media: #Obviously, do these last, convo media could be savage in size if you have a large organisation, keep that in mind.
+        pause_profile_pic: 1
+        pause_group_covers: 1
+        pause_event_covers: 1
+        pause_media_members: 1
+        pause_media_groups: 1
+        pause_convo_media: 1
+token:
+    value: INSERT YOUR TOKEN HERE
