@@ -9,31 +9,12 @@ Free to use and share, and edit.
 
 I assume you extracted this folder and arent reading inside the zip archive, but if not, extract it before you start.
 
-All you then need to do is go to python.org and get the latest python installer for your windows PC:
-
-Download Link
-https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe
-
 Note, although this app has no real Interface, it works fine and is not techincally difficult to operate. Just follow these steps and you will be fine.
 
 
-Copy and paste that into your browser, download it, and run the installer as an ADMIN
-========================================================================================================
-
 STEP 2
 
-Install Python for all computer (you can do user only if you like, i guess...)
-
-The installer lets you choose to install pip, make sure you tick the box to install pip, and make sure you let it add Python to PATH (otherwise you need to do it manually).
-
-The PATH option lets you run python from anywhere rather than just the python folder, so it's kinda a big deal.
-
-And pip is used to install app requirements for Workplace Data Fetch.  Also a big deal.
-========================================================================================================
-
-STEP 3
-
-Once you have done all this (will take like 5 minutes to do all that), Open the config.yaml file.
+Open the config.yaml file.
 
 Note there is a specific format in here, use spaces only for the config file.
 
