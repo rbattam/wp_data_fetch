@@ -26,7 +26,7 @@ If you use incorrect spacing / indentation...... well, YAML format is essentiall
 
 The values, 1 and 0 or the token are to be placed one space after the : for each item.
 
-You can always paste the content from below back into that config.yaml file if you stuff the formatting (it's not rocket surgery, however).
+You can always paste the content from below back into that config.yaml file if you stuff up the formatting.
 
 
 The format is like this:
